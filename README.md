@@ -1,6 +1,6 @@
 # Rusty-Playground
 
-My personal Rust playground where I experiment with and learn the Rust programming language through small, focused projects. Each directory contains a standalone application showcasing different Rust concepts and patterns. Perfect for beginners looking for practical examples or anyone interested in seeing Rust applied to real-world problems.
+A step-by-step adventure through Rust programming with practical mini-projects. Follow along as I build small applications from simple calculators to more complex systems, documenting my learning process and code improvements. Perfect for beginners looking to see real Rust code in action or for anyone interested in practical Rust application development.
 
 ## Projects
 
@@ -31,4 +31,4 @@ This repository documents my journey learning Rust, focusing on:
 
 ## Tags
 
-#rust #programming #learning #codingexamples #rustlang
+#rust #programming #learning #beginners #coding-practice #rustlang #adventure
