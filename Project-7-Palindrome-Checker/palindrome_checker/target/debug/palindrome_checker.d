@@ -1,0 +1,1 @@
+/Users/arpitshrotriya/Rusty-Playground/Project-7-Palindrome-Checker/palindrome_checker/target/debug/palindrome_checker: /Users/arpitshrotriya/Rusty-Playground/Project-7-Palindrome-Checker/palindrome_checker/src/main.rs
